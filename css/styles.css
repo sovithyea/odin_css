@@ -149,3 +149,50 @@
    font-size: 18px;
    color: #6B7280;
  }
+
+ .cta-section {
+   background: #1F2937;
+   padding: 80px;
+   display: flex;
+   justify-content: center;
+ }
+
+  .cta-container {
+    text-align: center;
+  }
+
+  .cta-text h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #F9FAF8;
+    margin-bottom: 16px;
+  }
+
+  .cta-text p {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-bottom: 24px;
+  }
+
+  .btn-outline {
+    background: transparent;
+    border: 2px solid #3882F6;
+    color: #3882F6;
+  }
+
+  .btn-outline:hover {
+    background: #3882F6;
+    color: #F9FAF8;
+  }
+  
+  .footer-section{
+    background: #00060e;
+    padding: 20px 80px;
+    text-align: center;
+  }
+
+  .footer-section p{
+    color: #E5E7EB;
+    font-size: 14px;
+  }
+
